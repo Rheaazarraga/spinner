@@ -9,5 +9,6 @@ spinner.forEach(element => {
 
 /**forEach method executes a provided function once for each array element
  * set counter at 0 to avoid delay for the first element's output
- * increase counter by .2 seconds */
+ * increase counter by .2 seconds 
+ * */
 
